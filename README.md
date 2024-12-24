@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Raihan Masyal Haidar
 
-<!--
-**raihanmasyalhaidar/raihanmasyalhaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Analyst** passionate about transforming data into actionable insights. 
 
-Here are some ideas to get you started:
+### 💼 Skills:
+- **Programming**: Python, R, SQL
+- **Visualization Tools**: Tableau, Power BI, Matplotlib, Seaborn
+- **Other Tools**: Excel, Google Sheets, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect:
+- [LinkedIn](https://linkedin.com/in/yourlinkedin)
+
+---
